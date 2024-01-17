@@ -74,4 +74,4 @@ the customer's wishes. I have relevant experience and I am very interested in it
 Now I want to become a valuable part of the development team, to communicate, succeed and grow together.
 
 Thank you for reading it.
-I look forward to receiving feedback.
+I look forward to [receiving feedback](mailto:mikhail@shulman.ru).
