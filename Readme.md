@@ -39,8 +39,8 @@ High-tech solutions provider
 ## EDUCATION
 - Novgorod State University (2008) — Software developer
 - International Management Institute of Saint-Petersburg (2020) — Business manager
-- Stepik (online, 2022) — Python developer: common and extended (![Certificate 1](https://jab.ru/Stepik0.jpg), ![Certificate 2](https://jab.ru/Stepik1.jpg))
-- Stepik (online, 2023) — QA: software testing from scratch including Postman, Fiddler and SoapUI basics (![Certificate 3](https://jab.ru/Stepik2.jpg))
+- Stepik (online, 2022) — Python developer: common and extended ![Certificate 1](https://jab.ru/Stepik0.jpg) ![Certificate 2](https://jab.ru/Stepik1.jpg)
+- Stepik (online, 2023) — QA: software testing from scratch including Postman, Fiddler and SoapUI basics ![Certificate 3](https://jab.ru/Stepik2.jpg)
 - Gvahim
 
 ## HOBBIES AND INTERESTS
@@ -53,7 +53,7 @@ High-tech solutions provider
 ## Cover letter
 Shalom!
 
-I am Mikhail Shulman. I moved to Israel from Russia at the end of 2022, graduated from ulpan bet, worked here as a marketing manager in Help People Group (volunteer fund).
+I am Mikhail. I moved to Israel from Russia at the end of 2022, graduated from ulpan bet, worked here as a marketing manager in Help People Group (volunteer fund).
 
 Before that I got a degree in software development, worked as a web developer 
 and project manager for 4 years. After that I got interested in the real economy 
