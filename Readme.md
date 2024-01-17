@@ -18,7 +18,7 @@ Major manufacturer of pipeline valves
 - Preparing and conducting audits in accordance with ISO 9001 (quality management system) requirements at production sites in Russia and Spain
 - Documentation and regulations writing
 
-## Sales Manager at JC Rus 2018–2020
+### Sales Manager at JC Rus 2018–2020
 Russian-Spanish joint venture, the manufacturer of pipeline valves
 - Planning and regulating the activities of all divisions of the enterprise
 - Entering the market with a new brand (over 4M€ turnover in first two years)
@@ -42,6 +42,10 @@ High-tech solutions provider
 - Stepik (online, 2022) — Python developer
 - Stepik (online, 2023) — QA: software testing from scratch including Postman, Fiddler and SoapUI basics
 - Gvahim
+
+![Stepik 0](https://jab.ru/Stepik0.jpg)
+![Stepik 1](https://jab.ru/Stepik1.jpg)
+![Stepik 2](https://jab.ru/Stepik2.jpg)
 
 ## HOBBIES AND INTERESTS
 - Motorcycle
