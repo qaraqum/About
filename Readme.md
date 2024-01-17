@@ -44,7 +44,7 @@ High-tech solutions provider
 - Gvahim
 
 ## HOBBIES AND INTERESTS
-- Designing (jab.ru)
+- Designing ([jab.ru](https://jab.ru))
 - Motorcycle
 - Volunteering
 
