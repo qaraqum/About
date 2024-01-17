@@ -1,7 +1,7 @@
 ## INTRO
-- [LinkedIn](http://linkedin.com/in/mikhailshulman/)
 - [Email](mailto:mikhail@shulman.ru)
 - +972 54 622-77-69
+- [LinkedIn](http://linkedin.com/in/mikhailshulman/)
 
 ## SUMMARY
 I am a goal-oriented and highly motivated person who can quickly adapt to new environments. Due to qualities such as sociability, flexibility and reliability, I am able to work in a team. I am well-organized and detail-oriented, which I believe is the key to successful performance of duties.
