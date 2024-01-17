@@ -39,13 +39,9 @@ High-tech solutions provider
 ## EDUCATION
 - Novgorod State University (2008) — Software developer
 - International Management Institute of Saint-Petersburg (2020) — Business manager
-- Stepik (online, 2022) — Python developer: common and extended
-- Stepik (online, 2023) — QA: software testing from scratch including Postman, Fiddler and SoapUI basics
+- Stepik (online, 2022) — Python developer: common and extended (![Certificate 1](https://jab.ru/Stepik0.jpg), ![Certificate 2](https://jab.ru/Stepik1.jpg))
+- Stepik (online, 2023) — QA: software testing from scratch including Postman, Fiddler and SoapUI basics (![Certificate 3](https://jab.ru/Stepik2.jpg))
 - Gvahim
-
-![Certificate 1](https://jab.ru/Stepik0.jpg)
-![Certificate 2](https://jab.ru/Stepik1.jpg)
-![Certificate 3](https://jab.ru/Stepik2.jpg)
 
 ## HOBBIES AND INTERESTS
 - Motorcycle
