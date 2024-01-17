@@ -44,44 +44,13 @@ High-tech solutions provider
 - Gvahim
 
 ## HOBBIES AND INTERESTS
-- Motorcycle
 - Designing (jab.ru)
+- Motorcycle
 - Volunteering
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Cover letter
 Shalom!
 
 I am Mikhail Shulman. I moved to Israel from Russia at the end of 2022, graduated from ulpan bet, worked here as a marketing manager in Help People Group (volunteer fund).
