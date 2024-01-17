@@ -68,7 +68,5 @@ the customer's wishes. I have relevant experience and I am very interested in it
 
 Now I want to become a valuable part of the development team, to communicate, succeed and grow together.
 
-Thank you in advance for taking the time to review my resume.
-I look forward to receiving feedback. 
-
-Have a nice day!
+Thank you for reading it.
+I look forward to receiving feedback.
